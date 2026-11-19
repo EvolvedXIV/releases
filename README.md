@@ -16,6 +16,7 @@ The central plugin repository Dalamud reads for every EvolvedXIV plugin for FINA
 | Plugin | Repository |
 |---|---|
 | Party Icons Evolved | [EvolvedXIV/party-icons-evolved](https://github.com/EvolvedXIV/party-icons-evolved) |
+| Job Gauge Evolved | [EvolvedXIV/job-gauge-evolved](https://github.com/EvolvedXIV/job-gauge-evolved) |
 
 ## How repo.json is maintained
 

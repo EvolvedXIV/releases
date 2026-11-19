@@ -25,5 +25,32 @@
     "DownloadLinkInstall": "https://github.com/EvolvedXIV/party-icons-evolved/releases/download/v1.0.1.0/PartyIconsEvolved.zip",
     "DownloadLinkUpdate": "https://github.com/EvolvedXIV/party-icons-evolved/releases/download/v1.0.1.0/PartyIconsEvolved.zip",
     "DownloadLinkTesting": "https://github.com/EvolvedXIV/party-icons-evolved/releases/download/v1.0.1.0/PartyIconsEvolved.zip"
+  },
+  {
+    "Author": "EvolvedXIV",
+    "Name": "Job Gauge Evolved",
+    "Punchline": "Improved, customisable job gauges.",
+    "Description": "Draws improved job gauges that you can resize, move and recolour, with a settings section and an on/off switch per job.\n\nViper: the Vipersight blades and the Serpent Offerings gauge in one. The blades show which button the game recommends from your Honed and venom buffs, the finisher's positional (flank on both blades, rear on the centre) and which finisher your venom empowers. Also shows the Anguine Tributes and the Reawaken timer, the gauge value and your Rattling Coils.\n\nOpen the settings with /jge.",
+    "Tags": [
+      "UI",
+      "job gauge",
+      "gauge",
+      "viper",
+      "combat"
+    ],
+    "InternalName": "JobGaugeEvolved",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/EvolvedXIV/job-gauge-evolved",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 1795074021,
+    "DownloadLinkInstall": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip",
+    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip",
+    "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip"
   }
 ]
