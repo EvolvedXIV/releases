@@ -30,7 +30,7 @@
     "Author": "EvolvedXIV",
     "Name": "Job Gauge Evolved",
     "Punchline": "Improved, customisable job gauges.",
-    "Description": "Draws improved job gauges that you can resize, move and recolour, with a settings section and an on/off switch per job.\n\nViper: the Vipersight blades and the Serpent Offerings gauge in one. The blades show which button the game recommends from your Honed and venom buffs, the finisher's positional (flank on both blades, rear on the centre) and which finisher your venom empowers. Also shows the Anguine Tributes and the Reawaken timer, the gauge value and your Rattling Coils.\n\nOpen the settings with /jge.",
+    "Description": "Draws improved job gauges that you can resize, move and recolour, with a settings section and an on/off switch per job.\n\nViper: the Vipersight blades and the Serpent Offerings gauge in one. A blade lights up when the game would recommend its button from your Honed and venom buffs, and goes dark when the buffs run out. At the finisher both blades show a flank attack, or a glow around the orb shows a rear attack, and the blade of the finisher your venom empowers is brightest. Lit parts glow with a pulse of energy every 2 seconds, and a lit blade's colour is added to its steel. Also shows the Anguine Tributes and the Reawaken timer, the gauge value and your Rattling Coils.\n\nOpen the settings with /jge.",
     "Tags": [
       "UI",
       "job gauge",
@@ -39,8 +39,8 @@
       "combat"
     ],
     "InternalName": "JobGaugeEvolved",
-    "AssemblyVersion": "0.1.0.0",
-    "TestingAssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.2.0.0",
+    "TestingAssemblyVersion": "0.2.0.0",
     "RepoUrl": "https://github.com/EvolvedXIV/job-gauge-evolved",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -48,9 +48,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1795074021,
-    "DownloadLinkInstall": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip",
-    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip",
-    "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.1.0.0/JobGaugeEvolved.zip"
+    "LastUpdate": 1795110040,
+    "DownloadLinkInstall": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.2.0.0/JobGaugeEvolved.zip",
+    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.2.0.0/JobGaugeEvolved.zip",
+    "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.2.0.0/JobGaugeEvolved.zip"
   }
 ]
