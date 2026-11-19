@@ -1,21 +1,21 @@
 # releases
 
-The central plugin repository Dalamud reads for every EvolveXIV plugin for FINAL FANTASY XIV.
+The central plugin repository Dalamud reads for every EvolvedXIV plugin for FINAL FANTASY XIV.
 
-## Installing EvolveXIV plugins
+## Installing EvolvedXIV plugins
 
 1. In game, open `/xlsettings` → **Experimental** → **Custom Plugin Repositories**.
 2. Add this URL, tick *Enabled*, and save:
 
    ```
-   https://raw.githubusercontent.com/EvolveXIV/releases/main/repo.json
+   https://raw.githubusercontent.com/EvolvedXIV/releases/main/repo.json
    ```
 
-3. Open `/xlplugins` and install any of the plugins below. New EvolveXIV plugins appear there automatically.
+3. Open `/xlplugins` and install any of the plugins below. New EvolvedXIV plugins appear there automatically.
 
 | Plugin | Repository |
 |---|---|
-| Party Icons Evolved | [EvolveXIV/party-icons-evolved](https://github.com/EvolveXIV/party-icons-evolved) |
+| Party Icons Evolved | [EvolvedXIV/party-icons-evolved](https://github.com/EvolvedXIV/party-icons-evolved) |
 
 ## How repo.json is maintained
 
@@ -28,7 +28,7 @@ from that plugin repository. Text such as the punchline or description comes fro
 change it there; a hand edit here is overwritten by the next release.
 
 To add a new plugin, follow "Adding a new plugin to the central repository" in the `dalamud-plugin` skill in
-[EvolveXIV/dalamud_reference](https://github.com/EvolveXIV/dalamud_reference). In short: copy its templates into
+[EvolvedXIV/dalamud_reference](https://github.com/EvolvedXIV/dalamud_reference). In short: copy its templates into
 the new plugin repository and give that repository a `RELEASES_TOKEN` secret (a token with
 *Contents: Read and write* on this repository).
 
