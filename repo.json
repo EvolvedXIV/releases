@@ -39,8 +39,8 @@
       "combat"
     ],
     "InternalName": "JobGaugeEvolved",
-    "AssemblyVersion": "0.3.0.0",
-    "TestingAssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.0",
+    "TestingAssemblyVersion": "0.3.1.0",
     "RepoUrl": "https://github.com/EvolvedXIV/job-gauge-evolved",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -48,9 +48,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1795210058,
-    "DownloadLinkInstall": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.0.0/JobGaugeEvolved.zip",
-    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.0.0/JobGaugeEvolved.zip",
-    "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.0.0/JobGaugeEvolved.zip"
+    "LastUpdate": 1795211657,
+    "DownloadLinkInstall": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.1.0/JobGaugeEvolved.zip",
+    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.1.0/JobGaugeEvolved.zip",
+    "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.1.0/JobGaugeEvolved.zip"
   }
 ]
