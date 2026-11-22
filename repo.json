@@ -55,10 +55,10 @@
   },
   {
     "Author": "Styr1x - EvolvedXIV Fix",
-    "Name": "BrowsingwayEvolve",
+    "Name": "Browsingway Evolved",
     "Punchline": "Browser overlays rendered in-game.",
     "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
-    "Changelog": "- Fix the render process randomly failing to start (FileNotFoundException when opening its IPC channel), which needed a game restart to recover\n- Api 15\n",
+    "Changelog": "- Renamed to Browsingway Evolved (internal name BrowsingwayEvolved) so it can be installed from the EvolvedXIV repository\n- Fix the render process randomly failing to start (FileNotFoundException when opening its IPC channel), which needed a game restart to recover\n- Api 15\n",
     "Tags": [
       "framework",
       "browser",
@@ -70,9 +70,9 @@
       "website",
       "video"
     ],
-    "InternalName": "BrowsingwayEvolve",
-    "AssemblyVersion": "1.7.3.0",
-    "TestingAssemblyVersion": "1.7.3.0",
+    "InternalName": "BrowsingwayEvolved",
+    "AssemblyVersion": "1.7.4.0",
+    "TestingAssemblyVersion": "1.7.4.0",
     "RepoUrl": "https://github.com/EvolvedXIV/Browsingway",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
@@ -80,9 +80,9 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "LastUpdate": 1795372982,
-    "DownloadLinkInstall": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.3.0/Browsingway.zip",
-    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.3.0/Browsingway.zip",
-    "DownloadLinkTesting": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.3.0/Browsingway.zip"
+    "LastUpdate": 1795375922,
+    "DownloadLinkInstall": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.4.0/BrowsingwayEvolved.zip",
+    "DownloadLinkUpdate": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.4.0/BrowsingwayEvolved.zip",
+    "DownloadLinkTesting": "https://github.com/EvolvedXIV/Browsingway/releases/download/v1.7.4.0/BrowsingwayEvolved.zip"
   }
 ]
