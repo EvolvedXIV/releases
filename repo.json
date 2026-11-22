@@ -54,7 +54,7 @@
     "DownloadLinkTesting": "https://github.com/EvolvedXIV/job-gauge-evolved/releases/download/v0.3.1.0/JobGaugeEvolved.zip"
   },
   {
-    "Author": "Styr1x",
+    "Author": "Styr1x - EvolvedXIV Fix",
     "Name": "Browsingway",
     "Punchline": "Browser overlays rendered in-game.",
     "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
