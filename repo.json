@@ -55,7 +55,7 @@
   },
   {
     "Author": "Styr1x - EvolvedXIV Fix",
-    "Name": "Browsingway",
+    "Name": "BrowsingwayEvolve",
     "Punchline": "Browser overlays rendered in-game.",
     "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
     "Changelog": "- Fix the render process randomly failing to start (FileNotFoundException when opening its IPC channel), which needed a game restart to recover\n- Api 15\n",
